@@ -68,7 +68,7 @@ ________________________________________
 ________________________________________
 🛠️ Project Setup
 Step 1 — Clone Repository
-git clone https://github.com/naaz92/LogicLegends.git
+git clone:  https://github.com/zahidali-dev/LogicLegends.git
 cd climate_project/climate_project
 Step 2 — Run Flask Backend
 cd backend
